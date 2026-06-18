@@ -1,3 +1,0 @@
-
-
-print("RANDI KO XORO")
